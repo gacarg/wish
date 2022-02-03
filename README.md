@@ -4,7 +4,7 @@
 write your wishes on near contract!
 _____
   for build and dev-deploy(use helper):
- 'run build.sh'
+ `run build.sh`
  ## commands:
 
  #### add wish:
