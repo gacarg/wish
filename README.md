@@ -3,7 +3,7 @@
 
 write your wishes on near contract!
 _____
-  for build and dev-deploy(use helper):
+  ####for build and dev-deploy(use helper):
  `run build.sh`
  ## commands:
 
