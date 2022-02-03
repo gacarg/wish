@@ -2,6 +2,7 @@
 
 
 write your wishes on near contract!
+using this rebo u can send me wish(wish.gacar.testnet) with tip!  or someone send wish  
 _____
  #### for build and deploy(use helper):
  `run build.sh`
