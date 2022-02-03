@@ -1,5 +1,5 @@
-# wish
-####Wish
+#### wish
+
 
 write your wishes on near contract!
 _____
